@@ -26,37 +26,37 @@ __Ao final deste projeto, conseguiremos responder as seguintes questões:__
 
 __Objetivo principal__
 
-#Este projeto busca proporcionar uma análise simples e objetiva das vendas, focando em ajudar o time de negócios na tomada de decisões estratégicas.
+Este projeto busca proporcionar uma análise simples e objetiva das vendas, focando em ajudar o time de negócios na tomada de decisões estratégicas.
 
 __Estrutura de dados__
 
-#O projeto utiliza uma tabela simulada de vendas, com os seguintes campos:
-##Data: Data da venda.
-##VendasID: Identificador único da venda.
-##ProdutoID: Identificador único do produto.
-##Produto: Nome do produto vendido.
-##Quantidade: Quantidade de produtos vendidos.
-##ValorUnitario: Valor unitário do produto.
-##ValorTotal: Valor total da venda sem descontos.
-##Desconto: Valor do desconto concedido na venda.
-##TotalComDesconto: Valor total da venda após o desconto.
-##Vendedor: Nome do vendedor responsável pela venda.
-##ClienteID: Identificador único do cliente.
-##Cliente: Nome do cliente.
-##Estado: Localização do cliente.
-##Sexo: Sexo do cliente.
-##Status: Status da venda (ex: realizada, cancelada).
+O projeto utiliza uma tabela simulada de vendas, com os seguintes campos:
+- Data: Data da venda.
+- VendasID: Identificador único da venda.
+- ProdutoID: Identificador único do produto.
+- Produto: Nome do produto vendido.
+- Quantidade: Quantidade de produtos vendidos.
+- ValorUnitario: Valor unitário do produto.
+- ValorTotal: Valor total da venda sem descontos.
+- Desconto: Valor do desconto concedido na venda.
+- TotalComDesconto: Valor total da venda após o desconto.
+- Vendedor: Nome do vendedor responsável pela venda.
+- ClienteID: Identificador único do cliente.
+- Cliente: Nome do cliente.
+- Estado: Localização do cliente.
+- Sexo: Sexo do cliente.
+- Status: Status da venda (ex: realizada, cancelada).
 
 __Visão geral das análises__
 
-#Com base na tabela simulada de vendas, o projeto permite a análise dos seguintes pontos:
-##_Produtos_: Desempenho de vendas por produto, impacto dos descontos, rentabilidade por produto.
-##_Vendedores_: Performance por vendedor, tanto em termos de quantidade quanto em valor de vendas.
-##_Clientes_: Análise de compras por cliente, segmentação por localização (estado) e perfil (sexo).
-##_Tendências Temporais_: Análise de variação nas vendas ao longo do tempo, identificando sazonalidades e melhores períodos de vendas.
+Com base na tabela simulada de vendas, o projeto permite a análise dos seguintes pontos:
+- _Produtos_: Desempenho de vendas por produto, impacto dos descontos, rentabilidade por produto.
+- _Vendedores_: Performance por vendedor, tanto em termos de quantidade quanto em valor de vendas.
+- _Clientes_: Análise de compras por cliente, segmentação por localização (estado) e perfil (sexo).
+- _Tendências Temporais_: Análise de variação nas vendas ao longo do tempo, identificando sazonalidades e melhores períodos de vendas.
 
 __Tecnologias utilizadas__
 
-#_Python_: Linguagem principal para análise e visualização.
-#_Pandas_: Manipulação de dados e análise exploratória.
-#_Matplotli_: Visualizações gráficas adicionais.
+- _Python_: Linguagem principal para análise e visualização.
+- _Pandas_: Manipulação de dados e análise exploratória.
+- _Matplotlib_: Visualizações gráficas adicionais.
