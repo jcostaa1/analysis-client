@@ -31,21 +31,21 @@ Este projeto busca proporcionar uma análise simples e objetiva das vendas, foca
 __Estrutura de dados__
 
 O projeto utiliza uma tabela simulada de vendas, com os seguintes campos:
-- Data: Data da venda.
-- VendasID: Identificador único da venda.
-- ProdutoID: Identificador único do produto.
-- Produto: Nome do produto vendido.
-- Quantidade: Quantidade de produtos vendidos.
-- ValorUnitario: Valor unitário do produto.
-- ValorTotal: Valor total da venda sem descontos.
-- Desconto: Valor do desconto concedido na venda.
-- TotalComDesconto: Valor total da venda após o desconto.
-- Vendedor: Nome do vendedor responsável pela venda.
-- ClienteID: Identificador único do cliente.
-- Cliente: Nome do cliente.
-- Estado: Localização do cliente.
-- Sexo: Sexo do cliente.
-- Status: Status da venda (ex: realizada, cancelada).
+- _Data_: Data da venda.
+- _VendasID_: Identificador único da venda.
+- _ProdutoID_: Identificador único do produto.
+- _Produto_: Nome do produto vendido.
+- _Quantidade_: Quantidade de produtos vendidos.
+- _ValorUnitario_: Valor unitário do produto.
+- _ValorTotal_: Valor total da venda sem descontos.
+- _Desconto_: Valor do desconto concedido na venda.
+- _TotalComDesconto_: Valor total da venda após o desconto.
+- _Vendedor_: Nome do vendedor responsável pela venda.
+- _ClienteID_: Identificador único do cliente.
+- _Cliente_: Nome do cliente.
+- _Estado_: Localização do cliente.
+- _Sexo_: Sexo do cliente.
+- _Status_: Status da venda (ex: realizada, cancelada).
 
 __Visão geral das análises__
 
