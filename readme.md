@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo simular uma análise de vendas com uma tabela de dados fictícios. A análise será realizada para responder a várias questões críticas de negócios relacionadas à performance de vendas, como o produto mais vendido, o impacto dos descontos, o desempenho de vendedores e clientes, entre outras. O projeto culminará na criação de um dashboard interativo em Python, fornecendo visualizações dinâmicas para apoiar a tomada de decisões pela equipe de negócios.
 
-__Ao final deste projeto, conseguiremos responder as seguintes questões:__
+Ao final deste projeto, conseguiremos responder as seguintes questões:
 1.	Qual é o produto mais vendido em termos de quantidade?
 2.	Qual é o produto que gerou mais receita?
 3.	Qual o valor total de vendas por produto?
@@ -21,7 +21,7 @@ __Ao final deste projeto, conseguiremos responder as seguintes questões:__
 16.	Qual é a variação nas vendas ao longo do tempo?
 17.	Qual é o dia da semana com maior volume de vendas?
 18.	Qual a margem de lucro média por venda?
-19.	Qual é a rentabilidade por produto (ValorTotal - Custo)?
+19.	Qual é a rentabilidade por produto?
 
 ## *__Objetivo principal__*
 
