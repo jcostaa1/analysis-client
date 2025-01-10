@@ -23,11 +23,11 @@ __Ao final deste projeto, conseguiremos responder as seguintes questões:__
 18.	Qual a margem de lucro média por venda?
 19.	Qual é a rentabilidade por produto (ValorTotal - Custo)?
 
-# *__Objetivo principal__*
+## *__Objetivo principal__*
 
 Este projeto busca proporcionar uma análise simples e objetiva das vendas, focando em ajudar o time de negócios na tomada de decisões estratégicas.
 
-# *__Estrutura de dados__*
+## *__Estrutura de dados__*
 
 O projeto utiliza uma tabela simulada de vendas, com os seguintes campos:
 - _Data_: Data da venda.
@@ -46,7 +46,7 @@ O projeto utiliza uma tabela simulada de vendas, com os seguintes campos:
 - _Sexo_: Sexo do cliente.
 - _Status_: Status da venda (ex: realizada, cancelada).
 
-# *__Visão geral das análises__*
+## *__Visão geral das análises__*
 
 Com base na tabela simulada de vendas, o projeto permite a análise dos seguintes pontos:
 - _Produtos_: Desempenho de vendas por produto, impacto dos descontos, rentabilidade por produto.
@@ -54,7 +54,7 @@ Com base na tabela simulada de vendas, o projeto permite a análise dos seguinte
 - _Clientes_: Análise de compras por cliente, segmentação por localização (estado) e perfil (sexo).
 - _Tendências Temporais_: Análise de variação nas vendas ao longo do tempo, identificando sazonalidades e melhores períodos de vendas.
 
-# *__Tecnologias utilizadas__*
+## *__Tecnologias utilizadas__*
 
 - _Python_: Linguagem principal para análise e visualização.
 - _Pandas_: Manipulação de dados e análise exploratória.
