@@ -4,7 +4,7 @@ Este projeto tem como objetivo simular uma análise de vendas com uma tabela de 
 
 Ao final deste projeto, conseguiremos responder as seguintes questões:
 1.	Qual é o produto mais vendido em termos de quantidade?
-2.	Qual é o produto que gerou mais receita?
+2.	Qual é o produto que gerou mais receita? 
 3.	Qual o valor total de vendas por produto?
 4.	Qual o valor médio de vendas por produto?
 5.	Qual é o desconto médio concedido nas vendas?
@@ -16,7 +16,7 @@ Ao final deste projeto, conseguiremos responder as seguintes questões:
 11.	Qual é o cliente com mais compras em termos de valor total?
 12.	Qual é o cliente com mais compras em termos de quantidade?
 13.	Quais são os estados com maior volume de vendas?
-14.	Qual é a distribuição de compras por sexo?
+14.	Qual é a distribuição de compras por gênero?
 15.	Quais são os períodos com mais vendas?
 16.	Qual é a variação nas vendas ao longo do tempo?
 17.	Qual é o dia da semana com maior volume de vendas?
