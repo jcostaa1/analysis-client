@@ -20,8 +20,7 @@ Ao final deste projeto, conseguiremos responder as seguintes questões:
 15.	Quais são os períodos com mais vendas?
 16.	Qual é a variação nas vendas ao longo do tempo?
 17.	Qual é o dia da semana com maior volume de vendas?
-18.	Qual a margem de lucro média por venda?
-19.	Qual é a rentabilidade por produto?
+18.	Qual é a rentabilidade por produto?
 
 ## *__Objetivo principal__*
 
