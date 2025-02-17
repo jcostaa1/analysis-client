@@ -1,4 +1,4 @@
-## *__Análise de Vendas com Dashboard em Python__*
+## *__Análise de vendas com gráficos em Python__*
 
 Este projeto tem como objetivo simular uma análise de vendas com uma tabela de dados fictícios. A análise será realizada para responder a várias questões críticas de negócios relacionadas à performance de vendas, como o produto mais vendido, o impacto dos descontos, o desempenho de vendedores e clientes, entre outras. O projeto culminará na criação de um dashboard interativo em Python, fornecendo visualizações dinâmicas para apoiar a tomada de decisões pela equipe de negócios.
 
